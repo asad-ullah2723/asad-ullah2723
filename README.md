@@ -11,7 +11,7 @@
 />
 
 - 🔭 Currently working as a **Full Stack Developer** at [RMA Metering Company](https://www.rma-metering.com/)  
-- 👨‍💻 Portfolio of projects: [LinkedIn Profile](https://www.linkedin.com/in/mirza-asadullah-a298a8222/)  
+- 👨‍💻 Portfolio of projects: [Website Profile](https://asadullah.vercel.app/)  
 - 💬 Ask me about **React.js, Next.js, Redux, Material-UI, Tailwind CSS, REST APIs**  
 - 📫 Reach me at: **mirzasad78@gmail.com**  
 - 📄 Learn more about my work experience on [LinkedIn](https://www.linkedin.com/in/mirza-asadullah-a298a8222/)  
