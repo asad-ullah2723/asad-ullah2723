@@ -14,13 +14,13 @@
 - 👨‍💻 Portfolio of projects: [LinkedIn Profile](https://www.linkedin.com/in/mirza-asadullah-a298a8222/)  
 - 💬 Ask me about **React.js, Next.js, Redux, Material-UI, Tailwind CSS, REST APIs**  
 - 📫 Reach me at: **mirzasad78@gmail.com**  
-- 📄 Learn more about my work experience on [LinkedIn](https://www.linkedin.com/in/mirza-asadullah-a298a8222/)  
+- 📄 Learn more about my work experience on [LinkedIn] (https://www.linkedin.com/in/mirza-asadullah/))  
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mirza-asadullah-a298a8222" target="_blank">
+<a href="https://www.linkedin.com/in/mirza-asadullah/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 <a href="mailto:mirzasad78@gmail.com" target="_blank">
