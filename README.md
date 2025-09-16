@@ -53,13 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asad-ullah2723&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=asad-ullah2723&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ullah2723&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ## 📊 GitHub Stats
-
+<!--
 <!-- Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=asad-ullah2723&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
@@ -67,4 +64,4 @@
 <img src="https://github-readme-streak-stats.vercel.app?user=asad-ullah2723&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ullah2723&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ullah2723&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
