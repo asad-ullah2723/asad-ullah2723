@@ -58,13 +58,13 @@
   alt="GitHub Streak"
 />
 </p>
+## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
+<!-- Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=asad-ullah2723&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<!-- Streak Stats -->
+<!-- Streak -->
 <img src="https://github-readme-streak-stats.vercel.app?user=asad-ullah2723&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<!-- Top Languages -->
+<!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ullah2723&layout=compact&theme=tokyonight" alt="Top Languages" />
-
