@@ -26,7 +26,7 @@
 <a href="mailto:mirzasad78@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" />
 </a>
-<a href="https://github.com/asad-ullah2723" target="_blank">
+<a href="https://github.com/mirza-asadullah" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 </p>
