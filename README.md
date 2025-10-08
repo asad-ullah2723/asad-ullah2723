@@ -49,6 +49,7 @@
 ---
 
 ### 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=mirza-asadullah&theme=dark&hide_border=false)<br/>
 <div align="center"> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asad-ullah2723&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ullah2723&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> </div>
 <p align="center">
 <img src="https://github-readme-streak-stats.vercel.app?user=asad-ullah2723&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
