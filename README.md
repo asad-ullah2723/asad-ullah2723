@@ -10,7 +10,7 @@
   src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
 />
 
-- 🔭 Currently working as a **Full Stack Developer** at [RMA Metering Company](https://www.rma-metering.com/)  
+- 🔭 Currently working as a **Full Stack Developer** at [RMA Metering Company](https://rmametering.com/)  
 - 👨‍💻 Portfolio of projects: [Website Profile](https://asadullah.vercel.app/)  
 - 💬 Ask me about **React.js, Next.js, Redux, Material-UI, Tailwind CSS, REST APIs**  
 - 📫 Reach me at: **mirzasad78@gmail.com**  
