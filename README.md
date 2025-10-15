@@ -55,7 +55,7 @@
   </p>
 </div>
 
-<div align="center"> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mirza-asadullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-ullah2723&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> </div>
+<div align="center"> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mirza-asadullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-asadullah3&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> </div>
 <p align="center">
 <img src="https://github-readme-streak-stats.vercel.app?user=mirza-asadullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
