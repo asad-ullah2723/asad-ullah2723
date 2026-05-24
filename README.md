@@ -178,12 +178,12 @@ Core Values:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_My_Website-FF6B35?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)](https://asadullah.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/muhammadfahaddev)
-[![Gmail](https://img.shields.io/badge/📧_Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:muhammadfahad.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/mirza-asadullah)
+[![Gmail](https://img.shields.io/badge/📧_Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:mirzaasad.dev@gmail.com)
 
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a)](https://twitter.com/MuhammadFahaddev)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://www.instagram.com/fahadeon)
-[![Phone](https://img.shields.io/badge/📱_Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+923117021034)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://www.instagram.com/)
+[![Phone](https://img.shields.io/badge/📱_Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+923044140674)
 
 </div>
 
