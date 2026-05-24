@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhammad%20Fahad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mirza%20Asadullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20Engineer&descAlignY=58&descSize=18"/>
 
 </div>
 
-<!-- Professional Header Wave -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </div>
@@ -14,17 +12,19 @@
 
 <br/>
 
-<!-- Professional Status Badges -->
-<img src="https://img.shields.io/badge/🌐_Portfolio-fahaddev.vercel.app-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
-<img src="https://img.shields.io/badge/💼_Status-Available%20for%20Projects-00C851?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a1a" alt="Available"/>
-<img src="https://img.shields.io/badge/📍_Location-Pakistan-0066CC?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a1a" alt="Location"/>
+<img src="https://img.shields.io/badge/💼_Role-Frontend_Developer-0A66C2?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-0066CC?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/🚀_Experience-4+_Years-FF6B35?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=1a1a1a"/>
 
 <br/>
 
-<!-- Elegant Profile Metrics with cache busting -->
-<img src="https://komarev.com/ghpvc/?username=MuhammadFahaddev&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/MuhammadFahaddev?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=blue" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/MuhammadFahaddev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=star&logoColor=yellow&labelColor=1a1a1a&color=yellow" alt="Total Stars"/>
+<img src="https://komarev.com/ghpvc/?username=mirza-asadullah&style=for-the-badge&color=00D9FF&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/github/followers/mirza-asadullah?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/mirza-asadullah?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=star&logoColor=yellow&labelColor=1a1a1a&color=yellow"/>
 
 </div>
 
@@ -32,32 +32,53 @@
 
 <div align="center">
 
-## 👨💻 **PROFESSIONAL PROFILE**
+# 👨‍💻 PROFESSIONAL PROFILE
 
 </div>
 
 ```yaml
-Name: Muhammad Fahad
-Title: Software Engineer, Full Stack & Mobile
-Experience: Web and Mobile Application Development, API integration, DevOps basics
-Location: Pakistan 🇵🇰
+Name: Mirza Asadullah
+
+Title:
+  - Frontend Developer
+  - React.js Engineer
+  - TypeScript Developer
+
+Experience:
+  - 4+ Years of Frontend & Full Stack Development
+  - Enterprise Dashboard & Analytics Platforms
+  - Interactive Data Visualization Systems
+  - Business Intelligence & Reporting Platforms
+
+Location: Lahore, Pakistan 🇵🇰
 
 Current Focus:
-  - Full Stack Web Development (React, Next.js, Node.js)
-  - Cross platform Mobile Development (React Native, Flutter)
-  - AI and Robotics (practical implementation and integrations)
-  - Databases (PostgreSQL & MySQL )
+  - Scalable React.js Applications
+  - TypeScript & Redux Architecture
+  - Interactive UI/UX Engineering
+  - Enterprise Dashboard Systems
+  - Data Visualization & Analytics Platforms
+  - Frontend Performance Optimization
+  - Reusable Component Architecture
+  - Real-Time Data Visualization
 
 Specialization:
-  - Cross platform mobile applications
-  - Scalable full stack web applications
-  - UI/UX implementation and product thinking
+  - Enterprise Frontend Architecture
+  - Business Intelligence Platforms
+  - Power BI–Style Dashboard Builders
+  - Interactive Charting Systems
+  - Drag-and-Drop Interfaces
+  - ETL Workflow Systems
+  - REST API Integrations
+  - RTL & Multilingual Applications
 
 Core Values:
-  - Clean, maintainable code
-  - User-centered design
-  - Continuous learning
-  - Innovation through technology
+  - Clean & Maintainable Code
+  - Scalable System Design
+  - User-Centered Experiences
+  - Continuous Learning
+  - Performance & Optimization
+  - Modern Frontend Engineering
 ```
 
 > *"I build reliable, maintainable software, with emphasis on clean interfaces and scalable systems"*
@@ -104,14 +125,14 @@ Core Values:
 <div align="center">
 
 <!-- Advanced GitHub Stats with cache busting -->
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFahaddev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahaddev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mirza-asadullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?mirza-asadullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahaddev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirza-asadullah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFahaddev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirza-asadullah&theme=tokyonight"/>
 
 </div>
 
@@ -120,7 +141,7 @@ Core Values:
 ## 🏆 **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadFahaddev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mirza-asadullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ### 🎯 **Key Achievements**
@@ -128,9 +149,9 @@ Core Values:
 - 🥈 **Runner Up** - Web Programming Competition, Riphah International University 2023
 - 💰 **Cash Prize & Mentorship** - Innovate 4.0 Pitching Competition
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadFahaddev/MuhammadFahaddev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirza-asadullah/mirza-asadullah/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirza-asadullah/mirza-asadullah/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mirza-asadullah/mirza-asadullah/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
