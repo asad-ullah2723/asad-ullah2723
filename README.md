@@ -1,61 +1,33 @@
-### Hi there 👋  
+<table style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #222222; line-height: 1.35; max-width: 520px; height: 174px;" width="376" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: middle; padding-right: 12px;"><img src="blob:https://mail.hostinger.com/d4531125-0066-4371-af62-67312eb10a9f" width="175" height="88" /></td>
+<td style="vertical-align: middle; padding-left: 4px;">
+<div style="font-size: 16px; font-weight: bold; color: #0b2545;">Muhammad Fahad</div>
+<div style="font-size: 13px; color: #555; margin-top: 2px;">Junior Software Engineer</div>
+<table style="margin-top: 10px; font-size: 13px; color: #333;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+ 
 
-<h1 align="center">I'm Mirza Asad Ullah</h1>
-<h3 align="center">🚀 Full Stack Developer | React.js & Next.js Specialist | Passionate About Building Scalable Web Applications</h3>
-
-<img 
-  align="right" 
-  alt="coding gif" 
-  width="400px" 
-  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
-/>
-
-- 🔭 Currently working as a **Full Stack Developer** at [RMA Metering Company](https://rmametering.com/)  
-- 👨‍💻 Portfolio of projects: [Website Profile](https://asadullah.vercel.app/)  
-- 💬 Ask me about **React.js, Next.js, Redux, Material-UI, Tailwind CSS, REST APIs**  
-- 📫 Reach me at: **mirzasad78@gmail.com**  
-- 📄 Learn more about my work experience on [LinkedIn](https://www.linkedin.com/in/mirza-asadullah/)  
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/mirza-asadullah/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-</a>
-<a href="mailto:mirzasad78@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-<a href="https://github.com/mirza-asadullah" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="Material-UI" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=mirza-asadullah&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  </p>
-</div>
-
-<div align="center"> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mirza-asadullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-asadullah&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> </div>
-<p align="center">
-<img src="https://github-readme-streak-stats.vercel.app?user=mirza-asadullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<td style="padding: 3px 8px 3px 0; vertical-align: middle; white-space: nowrap;"><strong style="color: #0078d7;">E:</strong></td>
+<td style="vertical-align: middle;"><a style="color: #222; text-decoration: none;" href="mailto:m.fahad@smartcomputings.com">m.fahad@smartcomputings.com</a></td>
+</tr>
+<tr>
+<td style="padding: 3px 8px 3px 0; white-space: nowrap;"><strong style="color: #0078d7;">T:</strong></td>
+<td>+92 311 7021034</td>
+</tr>
+<tr>
+<td style="padding: 3px 8px 3px 0; white-space: nowrap;"><strong style="color: #0078d7;">W:</strong></td>
+<td><a style="color: #0078d7; text-decoration: none;" href="https://smartcomputings.com" rel="noopener">smartcomputings.com</a></td>
+</tr>
+</tbody>
+</table>
+<div style="margin-top: 10px;"><a style="text-decoration: none; margin-right: 8px;" href="https://www.linkedin.com/company/smart-computing-smc-pvt-ltd/posts/?feedView=all"> <img style="vertical-align: middle; border: 0;" src="https://img.icons8.com/ios-filled/20/0077b5/linkedin.png" alt="LinkedIn" /> </a></div>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 8px; font-size: 12px; color: #777;" colspan="2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Smart Computing SMC Pvt Ltd</td>
+</tr>
+</tbody>
+</table>
